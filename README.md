@@ -1,4 +1,4 @@
-### Welcome, It's HeapAI
+### Welcome, It's Yassine
 
 🕷️ I am in my second year of my associate degree in data science/analysis and AI and i enjoy programming and making the most out of data
 
